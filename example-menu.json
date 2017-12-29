@@ -1,0 +1,22 @@
+
+
+{
+	"menu_type": {
+		"main": {
+			"items": [{
+				"id": "00",
+				"name": "Raspberry Pie",
+				"description": "So delicious",
+				"price": "2"
+			}, {
+				"id": "01",
+				"name": "Coffee Cake",
+				"description": "So delicious",
+				"price": "2"
+			}]
+		},
+		"lunch": {},
+		"breakfast": {},
+		"dinner": {}
+	}
+}
